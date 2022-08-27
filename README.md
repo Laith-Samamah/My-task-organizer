@@ -11,7 +11,7 @@ HTML, CSS, Bootstrap, Javascript
 Laith Samamah, Manar Olimat, Jafar Thawahrah,
 Emad Hashash, Dua'a Nawwas
 
-# Task-organizer
+# Task attachments
 
 [taskOrganizer.pdf wireframe and mockup](https://github.com/Laith-Samamah/My-task-organizer/files/9438316/taskOrganizer.pdf)
 
