@@ -13,11 +13,11 @@ Emad Hashash, Dua'a Nawwas
 
 # Task attachments
 
-[taskOrganizer.pdf wireframe and mockup](https://github.com/Laith-Samamah/My-task-organizer/files/9438316/taskOrganizer.pdf)
+[PDF: wireframe and mockup](https://github.com/Laith-Samamah/My-task-organizer/files/9438316/taskOrganizer.pdf)
 
 [Live URL](https://laith-samamah.github.io/My-task-organizer/)
 
-### Organization repositorie
+### Organization repository
 
 [Organization](https://github.com/Task-organizer-group-2/Task-organizer)
 
